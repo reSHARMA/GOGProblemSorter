@@ -24,7 +24,7 @@ def run(cat,page):
         for y in b:
             rate = 0
             print('{ "head" : "' + (y.select(".entry-title > a"))[0].text + '",')
-            print(' "link" : "' + (y.select(".entry-title > a"))[0]['href'] + '",')
+            print(' "link" : "<a target=\'_blank\' href = \'' + (y.select(".entry-title > a"))[0]['href']  +'\'> Go to question </a>",')
             xx = y.select(".articleRating")
             for nn in xx:
                 rate = float(nn.text)
