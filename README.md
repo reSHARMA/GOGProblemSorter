@@ -1,7 +1,7 @@
 # GOGProblemSorter
 Sort geeksforgeeks problems on the basis of difficulty
 ---
-## [Link to demo](https://cdn.rawgit.com/reSHARMA/GOGProblemSorter/6de53958/main.html)
+## [Link to demo](https://cdn.rawgit.com/reSHARMA/GOGProblemSorter/a78008e1/main.html)
 
 ![image](/one.png)
 
