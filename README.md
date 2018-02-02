@@ -5,7 +5,7 @@ Sort geeksforgeeks problems on the basis of difficulty
 
 ![image](/one.png)
 
-### Fetches problem data from gog and restructure it for operations like sorting which are natively not provided my gog.
+### Fetches problem data from gog and restructure it for operations like sorting which are natively not provided by gog.
 
 ### To fetch data
 ```
